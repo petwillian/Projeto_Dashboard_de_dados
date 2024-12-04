@@ -13,5 +13,5 @@ Distribuição do números de casos e mortes ao longo do tempo; Distribuição d
 * **Ferramentas utilizadas**
 
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
-![lookerstudio](https://img.shields.io/badge/looker-%20%23000000?style=flat&logo=looker)
+![lookerstudio](https://img.shields.io/badge/looker-%20%234285F4?style=flat&logo=looker&logoColor=%23F5FFFA)
 ![Colab](https://img.shields.io/badge/Colab-orange?style=flat&logo=googlecolab&logoColor=%23F9AB00)
