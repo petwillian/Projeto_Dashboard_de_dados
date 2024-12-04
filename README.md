@@ -1,6 +1,6 @@
 # Dashboard de dados
 
-Dashboard O produto final desta análise se encontre em um dashboard do Google Data Studio. O dashboard de dados contem os seguintes elementos:
+>Dashboard O produto final desta análise se encontre em um dashboard do Google Data Studio. O dashboard de dados contem os seguintes elementos:
 
 Key performance indicator (KPIs):
 
